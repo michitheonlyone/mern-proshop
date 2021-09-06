@@ -1,5 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './lux.bootswatch.min.css';
+import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
 import './index.css';
 import App from './App';
 
