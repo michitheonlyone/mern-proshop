@@ -1,3 +1,5 @@
+import './lux.bootswatch.min.css';
+import "../node_modules/bootstrap-icons/font/bootstrap-icons.css";
 import './App.css';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import { Container } from 'react-bootstrap';
