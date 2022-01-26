@@ -6,10 +6,7 @@ const Footer = () => {
     <footer>
       <Container>
         <Row>
-          <Col className='text-center py-3'>
-            <p>Copyright</p>
-            <a href='/'>footer links</a>
-          </Col>
+          <Col className='text-center py-3'>Copyright &copy; ProShop</Col>
         </Row>
       </Container>
     </footer>
